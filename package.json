@@ -3,6 +3,6 @@
     "start": "waline"
   },
   "dependencies": {
-    "@waline/vercel": "^2.0.0"
+    "@waline/vercel": "latest"
   }
 }
