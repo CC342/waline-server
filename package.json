@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "waline"
+  },
+  "dependencies": {
+    "@waline/vercel": "^3.0.0",
+    "sqids": "^0.3.0"
+  }
+}
